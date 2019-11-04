@@ -1,3 +1,3 @@
-# Headline
+# Asset Pipe
 
-> An awesome project.
+> A modern client side asset publishing tool
